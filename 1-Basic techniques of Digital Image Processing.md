@@ -22,7 +22,7 @@ Digital Image Processing means processing digital images by means of a digital c
    b) Color conversion(RGB to Gray or vice-versa)
 
 <div align="center">
-<img src="https://www.researchgate.net/publication/318500799/figure/fig1/AS:570693030617088@1513075229995/Image-Acquisition-Model.png"
+<img src="http://2.bp.blogspot.com/-Zs1Gc39IoPQ/UTahpWK70UI/AAAAAAAAAG0/hmTSUhcua18/s640/e+13.JPG" 
 width="500" >
 </div>
 
